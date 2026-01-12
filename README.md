@@ -2,6 +2,5 @@
 
 ## Table of Contents
 
-- example_file.txt
-
+HELLOW WORLD USING GIT
 
